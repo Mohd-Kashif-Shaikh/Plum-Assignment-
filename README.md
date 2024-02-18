@@ -6,7 +6,7 @@ Column C: Group indicates the sifferent teams at plum
 
 Share a view on -
 
-1) How are the efficeincy number looking like ?
+1)How are the efficeincy number looking like ?
    
 2)Can u shate your views? Which groups are quick ,slow etc. Create a table + Relevant Charts
 
